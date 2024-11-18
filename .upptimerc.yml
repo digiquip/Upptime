@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kvipp.io
   # baseUrl: /your-repo-name
-  theme: ocean
+  theme: light
   logoUrl: https://digiquip.no/img/logo.svg
   name: DQ Service Status
   introTitle: "**Our main services** are constantly monitored for response time and downtime."
