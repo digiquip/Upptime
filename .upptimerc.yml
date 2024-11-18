@@ -24,8 +24,8 @@ status-website:
   theme: light
   logoUrl: https://digiquip.no/img/logo.svg
   name: DQ Service Status
-  introTitle: "**Our main services** are constantly monitored for response time and downtime."
-  introMessage: Check in for current status, scheduled maintenance or incident alerts. Based on the excelent [Upptime open source project](https://github.com/upptime/upptime).
+  introTitle: "**Our main services** are constantly monitored for response times and downtime."
+  introMessage: Check in for current status, scheduled maintenance or incident alerts. Based on the excellent [Upptime open source project](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
