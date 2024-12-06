@@ -58,18 +58,20 @@
     "url": "https://digiquip.no",
     "icon": "https://icons.duckduckgo.com/ip3/digiquip.no.ico",
     "slug": "digi-quip-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 212,
-    "timeWeek": 241,
-    "timeMonth": 171,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 168,
+    "timeDay": 151,
+    "timeWeek": 222,
+    "timeMonth": 168,
+    "timeYear": 168,
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   },
   {
     "name": "DigiQuip PIM",
