@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 394,
-    "timeWeek": 375,
+    "time": 447,
+    "timeDay": 416,
+    "timeWeek": 388,
     "timeMonth": 444,
-    "timeYear": 448,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 539,
-    "timeWeek": 421,
-    "timeMonth": 477,
-    "timeYear": 475,
+    "time": 472,
+    "timeDay": 354,
+    "timeWeek": 392,
+    "timeMonth": 480,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.digiquip.com.ico",
     "slug": "digi-quip-main-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1527,
-    "timeDay": 1152,
-    "timeWeek": 1463,
-    "timeMonth": 1515,
-    "timeYear": 1527,
-    "dailyMinutesDown": {
-      "2024-12-25": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1522,
+    "timeDay": 1031,
+    "timeWeek": 1444,
+    "timeMonth": 1507,
+    "timeYear": 1522,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DigiQuip Website",
@@ -67,8 +65,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
     "time": 190,
-    "timeDay": 150,
-    "timeWeek": 233,
+    "timeDay": 186,
+    "timeWeek": 240,
     "timeMonth": 208,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 722,
-    "timeWeek": 574,
-    "timeMonth": 526,
-    "timeYear": 521,
+    "time": 519,
+    "timeDay": 417,
+    "timeWeek": 562,
+    "timeMonth": 524,
+    "timeYear": 519,
     "dailyMinutesDown": {}
   },
   {
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 569,
-    "timeWeek": 449,
-    "timeMonth": 413,
-    "timeYear": 409,
+    "time": 408,
+    "timeDay": 382,
+    "timeWeek": 451,
+    "timeMonth": 412,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   }
 ]
