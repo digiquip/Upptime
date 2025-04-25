@@ -4,19 +4,19 @@
     "url": "https://kvipp.it",
     "icon": "https://icons.duckduckgo.com/ip3/kvipp.it.ico",
     "slug": "kvipp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 754,
-    "timeWeek": 578,
-    "timeMonth": 561,
-    "timeYear": 498,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 499,
+    "timeDay": 737,
+    "timeWeek": 592,
+    "timeMonth": 566,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-04-25": 0
+      "2025-04-25": 18
     }
   },
   {
