@@ -4,18 +4,20 @@
     "url": "https://kvipp.it",
     "icon": "https://icons.duckduckgo.com/ip3/kvipp.it.ico",
     "slug": "kvipp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 1093,
-    "timeWeek": 601,
-    "timeMonth": 566,
+    "timeDay": 754,
+    "timeWeek": 578,
+    "timeMonth": 561,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "DigiQuip Registry",
