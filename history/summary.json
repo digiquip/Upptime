@@ -4,9 +4,9 @@
     "url": "https://kvipp.it",
     "icon": "https://icons.duckduckgo.com/ip3/kvipp.it.ico",
     "slug": "kvipp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 549,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2025-06-27": 0,
       "2025-06-16": 47,
       "2025-04-25": 18
     }
