@@ -82,35 +82,39 @@
     "url": "https://pim.digiquip.com",
     "icon": "https://icons.duckduckgo.com/ip3/pim.digiquip.com.ico",
     "slug": "digi-quip-pim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 528,
-    "timeWeek": 605,
+    "time": 540,
+    "timeDay": 529,
+    "timeWeek": 596,
     "timeMonth": 557,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "timeYear": 540,
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "DigiQuip Translation",
     "url": "https://translate.digiquip.com",
     "icon": "https://icons.duckduckgo.com/ip3/translate.digiquip.com.ico",
     "slug": "digi-quip-translation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 394,
-    "timeWeek": 450,
-    "timeMonth": 433,
+    "timeDay": 440,
+    "timeWeek": 455,
+    "timeMonth": 434,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   }
 ]
