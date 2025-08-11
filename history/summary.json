@@ -82,19 +82,19 @@
     "url": "https://pim.digiquip.com",
     "icon": "https://icons.duckduckgo.com/ip3/pim.digiquip.com.ico",
     "slug": "digi-quip-pim",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 529,
-    "timeWeek": 596,
-    "timeMonth": 557,
+    "timeDay": 491,
+    "timeWeek": 576,
+    "timeMonth": 552,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 54
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://translate.digiquip.com",
     "icon": "https://icons.duckduckgo.com/ip3/translate.digiquip.com.ico",
     "slug": "digi-quip-translation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 426,
-    "timeDay": 440,
-    "timeWeek": 455,
+    "timeDay": 429,
+    "timeWeek": 449,
     "timeMonth": 434,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 54
     }
   }
 ]
