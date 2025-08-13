@@ -6,9 +6,9 @@
     "slug": "kvipp",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 513,
     "timeDay": 374,
@@ -16,7 +16,7 @@
     "timeMonth": 574,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-08-13": 9,
+      "2025-08-13": 0,
       "2025-08-11": 19,
       "2025-06-16": 47,
       "2025-04-25": 18
