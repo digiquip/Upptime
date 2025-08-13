@@ -4,7 +4,7 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: Kvipp
-    url: https://kvipp.it
+    url: https://kvipp.it/health
   - name: DigiQuip Registry
     url: https://registry.kvipp.io
   - name: DigiQuip Main Service
