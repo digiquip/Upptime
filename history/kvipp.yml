@@ -1,7 +1,7 @@
 url: https://test.kvipp.io/health
-status: down
-code: 504
-responseTime: 359
-lastUpdated: 2025-08-28T11:41:18.622Z
+status: up
+code: 200
+responseTime: 439
+lastUpdated: 2025-08-28T11:50:10.655Z
 startTime: 2024-11-17T18:29:13.390Z
 generator: Upptime <https://github.com/upptime/upptime>
