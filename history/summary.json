@@ -11,7 +11,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 523,
-    "timeDay": 431,
+    "timeDay": 496,
     "timeWeek": 492,
     "timeMonth": 612,
     "timeYear": 523,
@@ -45,18 +45,20 @@
     "url": "https://demo.digiquip.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.digiquip.com.ico",
     "slug": "digi-quip-main-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 535,
-    "timeWeek": 579,
-    "timeMonth": 581,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 701,
+    "timeDay": 461,
+    "timeWeek": 555,
+    "timeMonth": 575,
+    "timeYear": 701,
+    "dailyMinutesDown": {
+      "2025-08-29": 0
+    }
   },
   {
     "name": "DigiQuip Website",
