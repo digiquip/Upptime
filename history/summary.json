@@ -45,19 +45,19 @@
     "url": "https://demo.digiquip.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.digiquip.com.ico",
     "slug": "digi-quip-main-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 611,
-    "timeWeek": 609,
-    "timeMonth": 571,
+    "timeDay": 694,
+    "timeWeek": 637,
+    "timeMonth": 580,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-09-24": 0
+      "2025-09-24": 14
     }
   },
   {
