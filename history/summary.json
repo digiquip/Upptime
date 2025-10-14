@@ -27,18 +27,20 @@
     "url": "https://registry.kvipp.io",
     "icon": "https://icons.duckduckgo.com/ip3/registry.kvipp.io.ico",
     "slug": "digi-quip-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 879,
-    "timeWeek": 572,
-    "timeMonth": 477,
+    "timeDay": 547,
+    "timeWeek": 527,
+    "timeMonth": 468,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-14": 0
+    }
   },
   {
     "name": "DigiQuip Main Service",
