@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 526,
-    "timeDay": 838,
-    "timeWeek": 625,
-    "timeMonth": 557,
+    "timeDay": 472,
+    "timeWeek": 587,
+    "timeMonth": 545,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-08-13": 19,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 577,
-    "timeWeek": 566,
-    "timeMonth": 474,
-    "timeYear": 438,
+    "time": 439,
+    "timeDay": 519,
+    "timeWeek": 530,
+    "timeMonth": 472,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 676,
+    "timeDay": 714,
     "timeWeek": 586,
-    "timeMonth": 601,
+    "timeMonth": 605,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 209,
-    "timeDay": 125,
-    "timeWeek": 224,
-    "timeMonth": 228,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 441,
+    "timeWeek": 259,
+    "timeMonth": 234,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2024-12-17": 34,
       "2024-12-06": 16
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 653,
-    "timeWeek": 579,
-    "timeMonth": 557,
-    "timeYear": 542,
+    "time": 543,
+    "timeDay": 688,
+    "timeWeek": 575,
+    "timeMonth": 563,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2025-08-11": 54
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 428,
-    "timeDay": 439,
-    "timeWeek": 456,
-    "timeMonth": 452,
-    "timeYear": 428,
+    "time": 429,
+    "timeDay": 522,
+    "timeWeek": 454,
+    "timeMonth": 455,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2025-08-11": 54
     }
