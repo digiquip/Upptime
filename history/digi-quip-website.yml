@@ -1,7 +1,7 @@
 url: https://digiquip.no
-status: up
-code: 200
-responseTime: 666
-lastUpdated: 2025-11-18T15:24:47.066Z
+status: down
+code: 500
+responseTime: 28729
+lastUpdated: 2025-11-18T15:39:35.300Z
 startTime: 2024-11-17T18:29:09.598Z
 generator: Upptime <https://github.com/upptime/upptime>
