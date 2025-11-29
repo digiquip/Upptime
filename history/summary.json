@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 525,
-    "timeDay": 258,
-    "timeWeek": 403,
-    "timeMonth": 520,
+    "time": 524,
+    "timeDay": 340,
+    "timeWeek": 369,
+    "timeMonth": 517,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2025-08-13": 19,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 203,
-    "timeWeek": 333,
-    "timeMonth": 434,
+    "timeDay": 392,
+    "timeWeek": 326,
+    "timeMonth": 430,
     "timeYear": 436,
     "dailyMinutesDown": {}
   },
@@ -47,18 +47,16 @@
     "slug": "digi-quip-main-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 673,
-    "timeDay": 558,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 643,
-    "dailyMinutesDown": {
-      "2025-11-28": 14
-    }
+    "timeDay": 650,
+    "timeWeek": 586,
+    "timeMonth": 574,
+    "timeYear": 640,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DigiQuip Website",
@@ -72,9 +70,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 287,
-    "timeDay": 171,
-    "timeWeek": 169,
-    "timeMonth": 1005,
+    "timeDay": 240,
+    "timeWeek": 189,
+    "timeMonth": 1003,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2025-11-18": 122,
@@ -94,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 544,
-    "timeDay": 520,
-    "timeWeek": 512,
-    "timeMonth": 541,
-    "timeYear": 545,
+    "timeDay": 696,
+    "timeWeek": 538,
+    "timeMonth": 544,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2025-08-11": 54
     }
@@ -113,10 +111,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 430,
-    "timeDay": 418,
-    "timeWeek": 420,
-    "timeMonth": 436,
+    "time": 431,
+    "timeDay": 517,
+    "timeWeek": 433,
+    "timeMonth": 438,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2025-08-11": 54
