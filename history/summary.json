@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 519,
-    "timeDay": 635,
-    "timeWeek": 445,
-    "timeMonth": 413,
-    "timeYear": 541,
+    "time": 518,
+    "timeDay": 236,
+    "timeWeek": 417,
+    "timeMonth": 404,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2025-08-13": 19,
       "2025-08-11": 19,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 798,
-    "timeWeek": 397,
-    "timeMonth": 376,
-    "timeYear": 439,
+    "timeDay": 186,
+    "timeWeek": 354,
+    "timeMonth": 357,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 565,
-    "timeWeek": 548,
-    "timeMonth": 590,
+    "time": 656,
+    "timeDay": 442,
+    "timeWeek": 538,
+    "timeMonth": 581,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-12-22": 48
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 276,
-    "timeDay": 314,
-    "timeWeek": 176,
-    "timeMonth": 181,
-    "timeYear": 296,
+    "timeDay": 223,
+    "timeWeek": 180,
+    "timeMonth": 182,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2026-02-03": 20,
       "2025-11-18": 122
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 550,
-    "timeDay": 571,
-    "timeWeek": 542,
-    "timeMonth": 569,
-    "timeYear": 555,
+    "timeDay": 515,
+    "timeWeek": 540,
+    "timeMonth": 564,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2025-08-11": 54
     }
@@ -112,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 437,
-    "timeDay": 389,
-    "timeWeek": 404,
-    "timeMonth": 447,
+    "time": 436,
+    "timeDay": 345,
+    "timeWeek": 396,
+    "timeMonth": 438,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-08-11": 54
