@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 518,
-    "timeDay": 216,
-    "timeWeek": 451,
-    "timeMonth": 435,
-    "timeYear": 524,
+    "timeDay": 303,
+    "timeWeek": 421,
+    "timeMonth": 437,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-08-13": 19,
       "2025-08-11": 19,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 245,
-    "timeWeek": 422,
-    "timeMonth": 405,
-    "timeYear": 438,
+    "timeDay": 281,
+    "timeWeek": 413,
+    "timeMonth": 406,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 618,
-    "timeDay": 588,
+    "time": 616,
+    "timeDay": 721,
     "timeWeek": 635,
-    "timeMonth": 618,
-    "timeYear": 580,
+    "timeMonth": 619,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-12-22": 48
     }
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 279,
-    "timeDay": 222,
-    "timeWeek": 255,
-    "timeMonth": 217,
+    "time": 280,
+    "timeDay": 466,
+    "timeWeek": 236,
+    "timeMonth": 227,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2026-02-03": 20,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 554,
-    "timeDay": 574,
-    "timeWeek": 612,
-    "timeMonth": 603,
-    "timeYear": 559,
+    "time": 555,
+    "timeDay": 705,
+    "timeWeek": 604,
+    "timeMonth": 608,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2025-08-11": 54
     }
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 439,
-    "timeDay": 390,
-    "timeWeek": 442,
-    "timeMonth": 452,
+    "timeDay": 533,
+    "timeWeek": 444,
+    "timeMonth": 456,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-08-11": 54
